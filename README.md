@@ -9,8 +9,8 @@ Using Pandas, Matplotlib and Jupyter Notebook analiyze the data and create visua
 * Include 3 observations about the results of the study.
 
 
-![alt text](C:/Users/lilia/Desktop/git/matplotlib--challenge/Images/FinalTumorVolume.png)
+![FinalTumorVolume](Images/FinalTumorVolume.png)
 
-![alt text](C:/Users/lilia/Desktop/git/matplotlib--challenge/Images/Mouseweightvstumor.png)
+![Mouseweight](Images/Mouseweightvstumor.png)
 
-![alt text](C:/Users/lilia/Desktop/git/matplotlib--challenge/Images/tumorvolumeovertimepoing.png)
+![tumorvolume](Images/tumorvolumeovertimepoing.png)
