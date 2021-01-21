@@ -13,4 +13,4 @@ Using Pandas, Matplotlib and Jupyter Notebook analiyze the data and create visua
 
 ![Mouseweight](Images/Mouseweightvstumor.PNG)
 
-![tumorvolume](Images/tumorvolumeovertimepoing.PNG)
+![tumorvolume](Images/tumorvolumeovertimepoint.PNG)
